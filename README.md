@@ -21,4 +21,3 @@
 </div>
 
 <h2>⋆˚࿔ GitHub Stats</h2>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prynix-dev)](https://github.com/prynix-dev/github-readme-stats)
