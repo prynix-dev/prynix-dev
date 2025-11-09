@@ -21,5 +21,6 @@
     <img src="https://img.shields.io/badge/CSS3-css3?style=social&logo=css&logoSize=auto" alt="CSS3">
     <img src="https://img.shields.io/badge/Notion-Notion?style=social&logo=Notion" alt="CSS3">
 </div>
-
+<br>
 <h2>⋆ GitHub Stats</h2>
+
