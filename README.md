@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://s6.uupload.ir/files/photo_2025-09-01_18-08-42_kso0.jpg" alt="" />
 </p>
-<h2 >⋆ About me</h2>
+<h3>⋆ About me</h3>
+<img align="right" alt="prynix" width="450" src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif">
 • My name is Parinaz, and I am currently studying front-end development at parnian Institute.
-<h2>⋆ Let's Connect</h2>
+<h3>⋆ Let's Connect</h3>
 <div>
   <a href="https://www.instagram.com/prynix_dev/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/instagram-instagram?style=social&logo=instagram&logoSize=auto" alt="Instagram"></a>
@@ -14,7 +15,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
   <a></a>
 </div>
-<h2>⋆ Tech Stack</h2>
+<h3>⋆ Tech Stack</h3>
 <div>
     <img src="https://img.shields.io/badge/HTML5-HTML5?style=social&logo=HTML5&logoSize=auto" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-css3?style=social&logo=css&logoSize=auto" alt="CSS3">
