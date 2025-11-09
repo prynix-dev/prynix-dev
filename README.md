@@ -11,7 +11,8 @@
  <a href="mailto:parinazes9877@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-gmail?style=social&logo=gmail" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/parinaz-esmaeilian-15824937b/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=social&logo=LinkedIn" alt="LinkedIn"></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a></a>
 </div>
 <h2>⋆ Tech Stack</h2>
 <div>
