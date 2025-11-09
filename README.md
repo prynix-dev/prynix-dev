@@ -3,7 +3,7 @@
   <img src="https://s6.uupload.ir/files/photo_2025-09-01_18-08-42_kso0.jpg" alt="" />
 </p>
 <h3>⋆ About me</h3>
-<img align="right" alt="prynix" width="450" src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif">
+<img align="right" alt="prynix" width="450" src="https://s6.uupload.ir/files/5d758f8778e039a171942a1993334d50_b7jc.gif">
 • My name is Parinaz, and I am currently studying front-end development at parnian Institute.
 <h3>⋆ Let's Connect</h3>
 <div>
@@ -23,4 +23,4 @@
 </div>
 <br>
 <h2>⋆ GitHub Stats</h2>
-
+![prynix-dev's Stats](https://github-readme-stats.vercel.app/api?username=prynix-dev&theme=react&show_icons=true&hide_border=true&count_private=true)
