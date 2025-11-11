@@ -23,3 +23,4 @@
 </div>
 <br>
 <h2>⋆ GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=prynix-dev&rank_icon=github&theme=slateorange&show_icons=true&hide_border=true" alt="prynix-dev's GitHub stats" />
