@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://s6.uupload.ir/files/photo_2025-09-01_18-08-42_kso0.jpg" alt="" />
 </p>
+<img src="https://komarev.com/ghpvc/?username=prynix-dev&label=Profile%20views&color=f0cf9f&style=flat" alt="prynix-dev profile views" />
 <h3>⋆ About me</h3>
 <img align="right" alt="prynix" width="450" src="https://s6.uupload.ir/files/5d758f8778e039a171942a1993334d50_b7jc.gif">
 • My name is Parinaz, and I am currently studying front-end development at parnian Institute.
