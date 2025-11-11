@@ -23,4 +23,9 @@
 </div>
 <br>
 <h2>⋆ GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=prynix-dev&rank_icon=github&theme=slateorange&show_icons=true&hide_border=true" alt="prynix-dev's GitHub stats" />
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prynix-dev&rank_icon=github&theme=slateorange&show_icons=true&hide_border=true" width="520" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prynix-dev&layout=compact&theme=slateorange&hide_title=false&hide_border=false&card_width=320&langs_count=5&hide_progress=false&order=2" width="420" />
+</p>
+
