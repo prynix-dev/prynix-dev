@@ -6,6 +6,8 @@
 <h3>⋆ About me</h3>
 <img align="right" alt="prynix" width="450" src="https://uploadkon.ir/uploads/54de05_251.gif">
 • My name is Parinaz, and I am currently studying front-end development at parnian Institute.
+• Building small projects and improving daily.  
+• Open to feedback ✨
 <h3>⋆ Let's Connect</h3>
 <div>
   <a href="https://www.instagram.com/prynix_dev/" target="_blank" rel="noopener">
