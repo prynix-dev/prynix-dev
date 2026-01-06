@@ -22,7 +22,9 @@
 <div>
     <img src="https://img.shields.io/badge/HTML5-HTML5?style=social&logo=HTML5&logoSize=auto" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-css3?style=social&logo=css&logoSize=auto" alt="CSS3">
-    <img src="https://img.shields.io/badge/Notion-Notion?style=social&logo=Notion" alt="CSS3">
+    <img src="https://img.shields.io/badge/Notion-Notion?style=social&logo=Notion" alt="Notion">
+    <img src="https://img.shields.io/badge/bootstrap-%237952B3?style=social&logo=bootstrap&logoColor=%237952B3&logoSize=auto" alt="bootstrap">
+    <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=social&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto" alt="tailwindcss">
 </div>
 <br>
 <h2>⋆ GitHub Stats</h2>
